@@ -1,3 +1,3 @@
 # ctug_delivery
 
-https://github.com/toonsy88/ctug_delivery/releases/download/xd/1v1lol.downloaded.from.CTUG.html
+If you somehow found this repository by chance, this is the main directory for when you install a game off of chillytoonsy's unblocked games, hence the name ctug_delivery. There are nothing much here, just the HTML files for each game, you can download them if you want.
